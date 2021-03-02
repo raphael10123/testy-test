@@ -1,3 +1,5 @@
 from random import *
-
-print(random())
+for (int i = 0; i < 10; i++)
+{
+  print(random())
+}
