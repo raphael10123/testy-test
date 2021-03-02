@@ -1,6 +1,3 @@
-print('hello, world!')
-print('useless text')
-print('more useless text')
-print('even more useless text')
+from random import *
 
-print('hello kevin, I like this code')
+print(random())
